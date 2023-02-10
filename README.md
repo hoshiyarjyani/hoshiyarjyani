@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ch. Hoshiyar Singh Jyani</h1>
-
-<h3 align="center">Developing a Robust and Efficient Web Application using Java, Spring, MySQL, HTML, CSS, JavaScript, and Bootstrap</h3>
+<h2 align="center"> A passionate JAVA Backend Developer from Jaipur (India). Extensive expertise in website architecture, design, and web design. Knows about DATA Structure and Git-Flow.</h2>
+<h3 align="center">Developing a Robust and Efficient Web Application using Java, Spring, MySQL, JavaScript, HTML, CSS </h3>
 <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoshiyarjyani&label=Profile%20views&color=0e75b6&style=flat" alt="hoshiyarjyani" /> </p>
 
