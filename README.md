@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ch. Hoshiyar Singh Jyani,  from India</h1>
+<h1 align="center">Hi 👋, I'm Ch. Hoshiyar Singh Jyani,  from Jaipur</h1>
 <h2 align="center"> "Crafting Elegant Solutions as a Skilled JAVA Backend Developer by Day, Sparking Imagination as a Vibrant Youtuber By Night"</h2>
 <h3 align="center">Developing Dynamic and Robust Web Applications with Java, Spring, MySQL, JavaScript, HTML, and CSS</h3>
 <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif"/>
