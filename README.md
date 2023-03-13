@@ -46,4 +46,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoshiyarjyani&show_icons=true&locale=en" alt="hoshiyarjyani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoshiyarjyani&" alt="hoshiyarjyani" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoshiyarjyani&" alt="hoshiyarjyani" /></p> -->
