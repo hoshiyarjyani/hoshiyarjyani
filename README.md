@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/hoshiyarjyani" target="blank"><img src="https://img.shields.io/twitter/follow/hoshiyarjyani?logo=twitter&style=for-the-badge" alt="hoshiyarjyani" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA , Spring, Hibernate**
+<!-- - 🌱 I’m currently learning **JAVA , Spring, Hibernate**
 
 - 🔭 I’m currently working on [Reliance Digital Clone](https://lovely-pavlova-dc5e40.netlify.app/)
 
@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [Ludo Game](https://snazzy-queijadas-38572b.netlify.app/)
 
-- 🔭 I’m currently working on [Drumkit Music System](https://capable-crostata-a5e7ba.netlify.app/)
+- 🔭 I’m currently working on [Drumkit Music System](https://capable-crostata-a5e7ba.netlify.app/) -->
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://hoshiyarjyani.github.io/)
 
