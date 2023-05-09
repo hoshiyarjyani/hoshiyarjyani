@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ch. Hoshiyar Singh Jyani </h1>
 <h2 align="center"> "Crafting Elegant Solutions as a Skilled JAVA Back-End Developer by Day, Sparking Imagination as a Vibrant Youtuber By Night"</h2>
 <h3 align="center">Developing Dynamic and Robust Web Applications with Java, Spring, Hibernate, MySQL, JavaScript, HTML, and CSS</h3>
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm"/>
+<!-- <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm"/> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoshiyarjyani&label=Profile%20views&color=0e75b6&style=flat" alt="hoshiyarjyani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoshiyarjyani" alt="hoshiyarjyani" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hoshiyarjyani" target="blank"><img src="https://img.shields.io/twitter/follow/hoshiyarjyani?logo=twitter&style=for-the-badge" alt="hoshiyarjyani" /></a> </p>
 
-<!-- - 🌱 I’m currently learning **JAVA , Spring, Hibernate**
+- 🌱 I’m currently learning **JAVA , Spring, Hibernate**
 
 - 🔭 I’m currently working on [Reliance Digital Clone](https://lovely-pavlova-dc5e40.netlify.app/)
 
@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [Ludo Game](https://snazzy-queijadas-38572b.netlify.app/)
 
-- 🔭 I’m currently working on [Drumkit Music System](https://capable-crostata-a5e7ba.netlify.app/) -->
+- 🔭 I’m currently working on [Drumkit Music System](https://capable-crostata-a5e7ba.netlify.app/) 
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://hoshiyarjyani.github.io/)
 
