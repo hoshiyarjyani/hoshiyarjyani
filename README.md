@@ -8,7 +8,7 @@
 
 <p align="left"> <a  href="https://twitter.com/hoshiyarjyani" target="blank"><img src="https://img.shields.io/twitter/follow/hoshiyarjyani?logo=twitter&style=for-the-badge" alt="hoshiyarjyani" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA, Springboot, Spring Security, and Hibernate**
+- 🌱 I’m currently learning **JAVA, Spring-boot, Spring-Security, and Hibernate**
 
 - 🔭 I’m currently working on [Reliance Digital Clone](https://lovely-pavlova-dc5e40.netlify.app/)
 
