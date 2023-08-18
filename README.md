@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Ch. Hoshiyar Singh Jyani </h1>
 <h2 align="center"> "Crafting Elegant Solutions as a Skilled JAVA Back-End Developer by Day, Sparking Imagination as a Vibrant Youtuber By Night"</h2>
-<h3 align="center"> Developing Dynamic & Robust Web Applications with Java,SpringBoot, Hibernate, MySQL, JavaScript, HTML, and CSS</h3>
+<h3 align="center"> Developing Dynamic & Robust Web Applications with Java, SpringBoot, Hibernate, MySQL, JavaScript, HTML, and CSS</h3>
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoshiyarjyani&label=Profile%20views&color=0e75b6&style=flat" alt="hoshiyarjyani"/>  </p>
 
